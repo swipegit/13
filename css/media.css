@@ -1500,6 +1500,7 @@
     }
     
     .under_header > p {
+        text-align: center;
         font-size: 24px;
     }
 
@@ -2013,6 +2014,7 @@
     }
     
     .under_header > p {
+        text-align: center;
         font-size: 20px;
     }
 

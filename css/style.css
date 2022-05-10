@@ -571,7 +571,6 @@ header > img:first-child{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
 }
 
 .video > .wrapper > .flex_info > p{
@@ -597,7 +596,7 @@ header > img:first-child{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../assets/video/bg.avif);
+    background-image: url(../assets/video/bg.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
