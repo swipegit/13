@@ -571,6 +571,7 @@ header > img:first-child{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .video > .wrapper > .flex_info > p{
